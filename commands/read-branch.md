@@ -1,0 +1,1 @@
+The user wants branch context. Before proceeding, determine the repository's default branch, compute the merge base between that branch and HEAD. Fetch the diff by running `git -c diff.autoRefreshIndex=false diff --no-color --ignore-space-change <merge-base> HEAD`. Use that merge-base diff as important context for your response and any code changes.

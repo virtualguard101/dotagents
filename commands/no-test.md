@@ -1,0 +1,1 @@
+DO NOT TEST YOUR CODE. Do your best to satisfy the user's request without spending any additional time on testing. Both manual and automated testing are not permitted until the user explicitly requests it in a follow-up message.
