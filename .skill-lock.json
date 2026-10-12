@@ -1,0 +1,1553 @@
+{
+  "version": 3,
+  "skills": {
+    "notion-cli": {
+      "source": "makenotion/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/makenotion/skills.git",
+      "skillPath": "skills/notion-cli/SKILL.md",
+      "skillFolderHash": "4360360f674f12699a66fffa1ab80174abbca93b",
+      "installedAt": "2026-07-11T14:41:07.086Z",
+      "updatedAt": "2026-07-11T14:41:07.086Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-07-11T14:41:14.436Z",
+      "updatedAt": "2026-07-11T14:41:14.436Z"
+    },
+    "drawio-skill": {
+      "source": "Agents365-ai/365-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
+      "skillPath": "plugins/drawio/skills/drawio-skill/SKILL.md",
+      "skillFolderHash": "e363d867c28427595d29a01b701fa68cc72fcd71",
+      "installedAt": "2026-07-13T05:06:16.774Z",
+      "updatedAt": "2026-07-13T05:06:16.774Z"
+    },
+    "obsidian-organizer": {
+      "source": "Agents365-ai/365-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
+      "skillPath": "plugins/obsidian-organizer/skills/obsidian-organizer/SKILL.md",
+      "skillFolderHash": "f9f1b85ff0f675f4481ca3a67f48f37168228df6",
+      "installedAt": "2026-07-13T05:06:16.779Z",
+      "updatedAt": "2026-07-13T05:06:16.779Z"
+    },
+    "adaptyv": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/adaptyv/SKILL.md",
+      "skillFolderHash": "6ec663167686c18bc2c120b028d3721644e45848",
+      "installedAt": "2026-09-13T13:42:56.486Z",
+      "updatedAt": "2026-09-13T13:42:56.486Z"
+    },
+    "aeon": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/aeon/SKILL.md",
+      "skillFolderHash": "cac1c9762b598e3f0a2b7f27419b7fde2287eab3",
+      "installedAt": "2026-09-13T13:42:56.489Z",
+      "updatedAt": "2026-09-13T13:42:56.489Z"
+    },
+    "analytical-method-validation": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/analytical-method-validation/SKILL.md",
+      "skillFolderHash": "d3889fb1e474f2653f904b39d6e7057bbbf6343b",
+      "installedAt": "2026-09-13T13:42:56.492Z",
+      "updatedAt": "2026-09-13T13:42:56.492Z"
+    },
+    "anndata": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/anndata/SKILL.md",
+      "skillFolderHash": "cef544c43e1c67080f75149854f912ac5ed53bf1",
+      "installedAt": "2026-09-13T13:42:56.495Z",
+      "updatedAt": "2026-09-13T13:42:56.495Z"
+    },
+    "arbor": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/arbor/SKILL.md",
+      "skillFolderHash": "650d2d5b1a9b766a7ab25e89f292c5303259e83f",
+      "installedAt": "2026-09-13T13:42:56.497Z",
+      "updatedAt": "2026-09-13T13:42:56.497Z"
+    },
+    "arboreto": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/arboreto/SKILL.md",
+      "skillFolderHash": "ef52ae273463a3394a03aebeb12d21abfffdec2b",
+      "installedAt": "2026-09-13T13:42:56.501Z",
+      "updatedAt": "2026-09-13T13:42:56.501Z"
+    },
+    "astropy": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/astropy/SKILL.md",
+      "skillFolderHash": "ef9d290f4bff6ec749a908f44974114e73dcd6f5",
+      "installedAt": "2026-09-13T13:42:56.504Z",
+      "updatedAt": "2026-09-13T13:42:56.504Z"
+    },
+    "autoskill": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/autoskill/SKILL.md",
+      "skillFolderHash": "c28bb2a7274297cc7e800e576bf03165a32632f7",
+      "installedAt": "2026-09-13T13:42:56.506Z",
+      "updatedAt": "2026-09-13T13:42:56.506Z"
+    },
+    "benchling-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/benchling-integration/SKILL.md",
+      "skillFolderHash": "3ff3b0abf025ad9b21c11ad63018255b2cfaf869",
+      "installedAt": "2026-09-13T13:42:56.509Z",
+      "updatedAt": "2026-09-13T13:42:56.509Z"
+    },
+    "bgpt-paper-search": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/bgpt-paper-search/SKILL.md",
+      "skillFolderHash": "afed27ac655347a413f3eed2398c94e5d9c3780b",
+      "installedAt": "2026-09-13T13:42:56.512Z",
+      "updatedAt": "2026-09-13T13:42:56.512Z"
+    },
+    "bids": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/bids/SKILL.md",
+      "skillFolderHash": "7c16bbe70a8438881a77dbc7728a2aa73dd40390",
+      "installedAt": "2026-09-13T13:42:56.514Z",
+      "updatedAt": "2026-09-13T13:42:56.514Z"
+    },
+    "biopython": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/biopython/SKILL.md",
+      "skillFolderHash": "654419ad7f3468c939e188bd9f16f00ce8fa0d63",
+      "installedAt": "2026-09-13T13:42:56.517Z",
+      "updatedAt": "2026-09-13T13:42:56.517Z"
+    },
+    "bioservices": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/bioservices/SKILL.md",
+      "skillFolderHash": "62d5ac240d2bb1a500c59174b4815ead64e8d2f0",
+      "installedAt": "2026-09-13T13:42:56.519Z",
+      "updatedAt": "2026-09-13T13:42:56.519Z"
+    },
+    "bulk-rnaseq": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/bulk-rnaseq/SKILL.md",
+      "skillFolderHash": "0e2e34298765c873a401ede86f4c837f40dd848a",
+      "installedAt": "2026-09-13T13:42:56.521Z",
+      "updatedAt": "2026-09-13T13:42:56.521Z"
+    },
+    "cellxgene-census": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/cellxgene-census/SKILL.md",
+      "skillFolderHash": "ee841609b9370659541de601a9601cac1d12f8b3",
+      "installedAt": "2026-09-13T13:42:56.524Z",
+      "updatedAt": "2026-09-13T13:42:56.524Z"
+    },
+    "cirq": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/cirq/SKILL.md",
+      "skillFolderHash": "7c7892c161ce22a5c440ed9c553fd650b3fa371c",
+      "installedAt": "2026-09-13T13:42:56.526Z",
+      "updatedAt": "2026-09-13T13:42:56.526Z"
+    },
+    "citation-management": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/citation-management/SKILL.md",
+      "skillFolderHash": "49093218ebaab2432df5001f92852249d1527bb8",
+      "installedAt": "2026-09-13T13:42:56.528Z",
+      "updatedAt": "2026-09-13T13:42:56.528Z"
+    },
+    "clinical-decision-support": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/clinical-decision-support/SKILL.md",
+      "skillFolderHash": "710bfbb8b08f5d89855b22385552d42b8eee9468",
+      "installedAt": "2026-09-13T13:42:56.532Z",
+      "updatedAt": "2026-09-13T13:42:56.532Z"
+    },
+    "clinical-reports": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/clinical-reports/SKILL.md",
+      "skillFolderHash": "b24110dafac5290c7234edfaf15a4191fa5cd5f6",
+      "installedAt": "2026-09-13T13:42:56.534Z",
+      "updatedAt": "2026-09-13T13:42:56.534Z"
+    },
+    "cobrapy": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/cobrapy/SKILL.md",
+      "skillFolderHash": "29523ea5def19265220b211aeaa7b85c496650f6",
+      "installedAt": "2026-09-13T13:42:56.537Z",
+      "updatedAt": "2026-09-13T13:42:56.537Z"
+    },
+    "consciousness-council": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/consciousness-council/SKILL.md",
+      "skillFolderHash": "f3a8c17952d21345dd0bf193c4212396798ab546",
+      "installedAt": "2026-09-13T13:42:56.539Z",
+      "updatedAt": "2026-09-13T13:42:56.539Z"
+    },
+    "dask": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/dask/SKILL.md",
+      "skillFolderHash": "6bed1e2ebd9598f5255a05e8d5bd2991746170e6",
+      "installedAt": "2026-09-13T13:42:56.541Z",
+      "updatedAt": "2026-09-13T13:42:56.541Z"
+    },
+    "database-lookup": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/database-lookup/SKILL.md",
+      "skillFolderHash": "fdb92cf1bf19aa09a7662379cf91e8150338994c",
+      "installedAt": "2026-09-13T13:42:56.544Z",
+      "updatedAt": "2026-09-13T13:42:56.544Z"
+    },
+    "datalad": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/datalad/SKILL.md",
+      "skillFolderHash": "72badf5812b52d4415f5ed6d26f9ec4776db8bdc",
+      "installedAt": "2026-09-13T13:42:56.546Z",
+      "updatedAt": "2026-09-13T13:42:56.546Z"
+    },
+    "datamol": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/datamol/SKILL.md",
+      "skillFolderHash": "83698f79a88bb35a0cd06d147ae01e65f480b5e0",
+      "installedAt": "2026-09-13T13:42:56.549Z",
+      "updatedAt": "2026-09-13T13:42:56.549Z"
+    },
+    "deepchem": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/deepchem/SKILL.md",
+      "skillFolderHash": "1245291a14fb499ec6c4b8a882a27f79ec8d19cb",
+      "installedAt": "2026-09-13T13:42:56.552Z",
+      "updatedAt": "2026-09-13T13:42:56.552Z"
+    },
+    "deepspot-m": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/deepspot-m/SKILL.md",
+      "skillFolderHash": "d59bcb71fbd9b74aa053e155998d5d59d0257e6e",
+      "installedAt": "2026-09-13T13:42:56.554Z",
+      "updatedAt": "2026-09-13T13:42:56.554Z"
+    },
+    "deeptools": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/deeptools/SKILL.md",
+      "skillFolderHash": "136bf84e15a954e1edc26f86808b3f4f15d5e864",
+      "installedAt": "2026-09-13T13:42:56.558Z",
+      "updatedAt": "2026-09-13T13:42:56.558Z"
+    },
+    "depmap": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/depmap/SKILL.md",
+      "skillFolderHash": "9c13e51a32b3a91510f2d7f6e1e5bf9c6e6f373a",
+      "installedAt": "2026-09-13T13:42:56.561Z",
+      "updatedAt": "2026-09-13T13:42:56.561Z"
+    },
+    "dhdna-profiler": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/dhdna-profiler/SKILL.md",
+      "skillFolderHash": "2fc1676dfb4712089ec861936be5004fce7d2e1f",
+      "installedAt": "2026-09-13T13:42:56.569Z",
+      "updatedAt": "2026-09-13T13:42:56.569Z"
+    },
+    "diffdock": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/diffdock/SKILL.md",
+      "skillFolderHash": "a600c723ea08cc9ebb733b5b831215dce9205775",
+      "installedAt": "2026-09-13T13:42:56.572Z",
+      "updatedAt": "2026-09-13T13:42:56.572Z"
+    },
+    "dnanexus-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/dnanexus-integration/SKILL.md",
+      "skillFolderHash": "cb7793b66de166eda25c1d7a6945c4eb9df1b0be",
+      "installedAt": "2026-09-13T13:42:56.574Z",
+      "updatedAt": "2026-09-13T13:42:56.574Z"
+    },
+    "docx": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/docx/SKILL.md",
+      "skillFolderHash": "78a36e2334e2224f28c07eed5ab8988c56f7ec4c",
+      "installedAt": "2026-09-13T13:42:56.576Z",
+      "updatedAt": "2026-09-13T13:42:56.576Z"
+    },
+    "esm": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/esm/SKILL.md",
+      "skillFolderHash": "148e152fce40c3a9f6c559c715053e08c5e5f841",
+      "installedAt": "2026-09-13T13:42:56.579Z",
+      "updatedAt": "2026-09-13T13:42:56.579Z"
+    },
+    "etetoolkit": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/etetoolkit/SKILL.md",
+      "skillFolderHash": "4f0540b454751066b734459656f56e9f1ca2ac38",
+      "installedAt": "2026-09-13T13:42:56.580Z",
+      "updatedAt": "2026-09-13T13:42:56.580Z"
+    },
+    "exa-search": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/exa-search/SKILL.md",
+      "skillFolderHash": "c056872cc5e2ed58633d1968356282da645c3323",
+      "installedAt": "2026-09-13T13:42:56.582Z",
+      "updatedAt": "2026-09-13T13:42:56.582Z"
+    },
+    "experimental-design": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/experimental-design/SKILL.md",
+      "skillFolderHash": "0fe230c326a7ff17c0201c5fd4e99cc593623fe6",
+      "installedAt": "2026-09-13T13:42:56.584Z",
+      "updatedAt": "2026-09-13T13:42:56.584Z"
+    },
+    "exploratory-data-analysis": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/exploratory-data-analysis/SKILL.md",
+      "skillFolderHash": "8e2569c1842f9915681df9d7c9740478f031288e",
+      "installedAt": "2026-09-13T13:42:56.586Z",
+      "updatedAt": "2026-09-13T13:42:56.586Z"
+    },
+    "flowio": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/flowio/SKILL.md",
+      "skillFolderHash": "59198baa2c84c0fe265fee2b586f0804b3c70f24",
+      "installedAt": "2026-09-13T13:42:56.588Z",
+      "updatedAt": "2026-09-13T13:42:56.588Z"
+    },
+    "fluidsim": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/fluidsim/SKILL.md",
+      "skillFolderHash": "f4393031935347fdf200eaa0600dfa4f2e2cf544",
+      "installedAt": "2026-09-13T13:42:56.591Z",
+      "updatedAt": "2026-09-13T13:42:56.591Z"
+    },
+    "folklore-variant-evidence": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/folklore-variant-evidence/SKILL.md",
+      "skillFolderHash": "d41f7f5997948d706aa4f71b96c22068441e583a",
+      "installedAt": "2026-09-13T13:42:56.594Z",
+      "updatedAt": "2026-09-13T13:42:56.594Z"
+    },
+    "generate-image": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/generate-image/SKILL.md",
+      "skillFolderHash": "ba79e8453501a489fb7eae303ba3a93270b2b97f",
+      "installedAt": "2026-09-13T13:42:56.596Z",
+      "updatedAt": "2026-09-13T13:42:56.596Z"
+    },
+    "geniml": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/geniml/SKILL.md",
+      "skillFolderHash": "389bc54aaba30f42a715b93ffb4bcd2f99693cbb",
+      "installedAt": "2026-09-13T13:42:56.602Z",
+      "updatedAt": "2026-09-13T13:42:56.602Z"
+    },
+    "genomic-coordinates": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/genomic-coordinates/SKILL.md",
+      "skillFolderHash": "811f6d43f9eddbb98b3f7650d77131545e330643",
+      "installedAt": "2026-09-13T13:42:56.605Z",
+      "updatedAt": "2026-09-13T13:42:56.605Z"
+    },
+    "genomic-intelligence": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/genomic-intelligence/SKILL.md",
+      "skillFolderHash": "bee91424afc9747826eaebb92084a8b305b9bfa7",
+      "installedAt": "2026-09-13T13:42:56.610Z",
+      "updatedAt": "2026-09-13T13:42:56.610Z"
+    },
+    "geomaster": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/geomaster/SKILL.md",
+      "skillFolderHash": "83de78a61db2884b64edcff71f6440212c0c0d6f",
+      "installedAt": "2026-09-13T13:42:56.612Z",
+      "updatedAt": "2026-09-13T13:42:56.612Z"
+    },
+    "geopandas": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/geopandas/SKILL.md",
+      "skillFolderHash": "194e9ae99fa1b69081533a8c6a8d514d3ce23d67",
+      "installedAt": "2026-09-13T13:42:56.615Z",
+      "updatedAt": "2026-09-13T13:42:56.615Z"
+    },
+    "get-available-resources": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/get-available-resources/SKILL.md",
+      "skillFolderHash": "ac2578f705e6bd576cca809a2f1c1c27ed157d1e",
+      "installedAt": "2026-09-13T13:42:56.618Z",
+      "updatedAt": "2026-09-13T13:42:56.618Z"
+    },
+    "gget": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/gget/SKILL.md",
+      "skillFolderHash": "465fd7e4781378f4ed4bd34609a86d49dc854fc5",
+      "installedAt": "2026-09-13T13:42:56.620Z",
+      "updatedAt": "2026-09-13T13:42:56.620Z"
+    },
+    "ginkgo-cloud-lab": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/ginkgo-cloud-lab/SKILL.md",
+      "skillFolderHash": "641f99dda5087db2b7433623fbc20b6c677bb559",
+      "installedAt": "2026-09-13T13:42:56.623Z",
+      "updatedAt": "2026-09-13T13:42:56.623Z"
+    },
+    "glycoengineering": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/glycoengineering/SKILL.md",
+      "skillFolderHash": "58ab027ac04dcacd4979e2fc6f0f4a536b82f7de",
+      "installedAt": "2026-09-13T13:42:56.625Z",
+      "updatedAt": "2026-09-13T13:42:56.625Z"
+    },
+    "gtars": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/gtars/SKILL.md",
+      "skillFolderHash": "97fa464267ecb51a7d6d46b226c142e88ea6de51",
+      "installedAt": "2026-09-13T13:42:56.627Z",
+      "updatedAt": "2026-09-13T13:42:56.627Z"
+    },
+    "histolab": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/histolab/SKILL.md",
+      "skillFolderHash": "e719aa7d9f04aa48133bb3f802eb9a891c4664ef",
+      "installedAt": "2026-09-13T13:42:56.629Z",
+      "updatedAt": "2026-09-13T13:42:56.629Z"
+    },
+    "hugging-science": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/hugging-science/SKILL.md",
+      "skillFolderHash": "5dabda5a564c047b8abc89ba32824e5f8edc610a",
+      "installedAt": "2026-09-13T13:42:56.631Z",
+      "updatedAt": "2026-09-13T13:42:56.631Z"
+    },
+    "hypogenic": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/hypogenic/SKILL.md",
+      "skillFolderHash": "8fa9e53970c4ff64a9f88802b327511777817340",
+      "installedAt": "2026-09-13T13:42:56.634Z",
+      "updatedAt": "2026-09-13T13:42:56.634Z"
+    },
+    "hypothesis-generation": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/hypothesis-generation/SKILL.md",
+      "skillFolderHash": "2cb0f93a28f065c3451f947e7ae7866c01b372f1",
+      "installedAt": "2026-09-13T13:42:56.636Z",
+      "updatedAt": "2026-09-13T13:42:56.636Z"
+    },
+    "imaging-data-commons": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/imaging-data-commons/SKILL.md",
+      "skillFolderHash": "4124c52f9b3518ae568147a892efdf4de665b0eb",
+      "installedAt": "2026-09-13T13:42:56.640Z",
+      "updatedAt": "2026-09-13T13:42:56.640Z"
+    },
+    "infographics": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/infographics/SKILL.md",
+      "skillFolderHash": "73fc7f180eb33436a55a4777a6c02fb1075b82f7",
+      "installedAt": "2026-09-13T13:42:56.644Z",
+      "updatedAt": "2026-09-13T13:42:56.644Z"
+    },
+    "iso-standards-readiness": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/iso-standards-readiness/SKILL.md",
+      "skillFolderHash": "aa1890872c8e6957d38c916a73bf44c64f387f32",
+      "installedAt": "2026-09-13T13:42:56.647Z",
+      "updatedAt": "2026-09-13T13:42:56.647Z"
+    },
+    "lab-hardware-cad": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/lab-hardware-cad/SKILL.md",
+      "skillFolderHash": "7eb72db0fa454df6f537b9ab9e5bd7d26685e33c",
+      "installedAt": "2026-09-13T13:42:56.653Z",
+      "updatedAt": "2026-09-13T13:42:56.653Z"
+    },
+    "labarchive-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/labarchive-integration/SKILL.md",
+      "skillFolderHash": "fee79b56841244f2f35e15b15ee3b72f7046afe1",
+      "installedAt": "2026-09-13T13:42:56.656Z",
+      "updatedAt": "2026-09-13T13:42:56.656Z"
+    },
+    "lamindb": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/lamindb/SKILL.md",
+      "skillFolderHash": "7fd07aae7472c22558072845b4261d3381b942b3",
+      "installedAt": "2026-09-13T13:42:56.662Z",
+      "updatedAt": "2026-09-13T13:42:56.662Z"
+    },
+    "latchbio-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/latchbio-integration/SKILL.md",
+      "skillFolderHash": "861818137db10b841885029bd37a718c87fc3143",
+      "installedAt": "2026-09-13T13:42:56.674Z",
+      "updatedAt": "2026-09-13T13:42:56.674Z"
+    },
+    "latex-posters": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/latex-posters/SKILL.md",
+      "skillFolderHash": "f6686a41bae955a0b2b0fae3db4a9297a91a9325",
+      "installedAt": "2026-09-13T13:42:56.677Z",
+      "updatedAt": "2026-09-13T13:42:56.677Z"
+    },
+    "liteparse": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/liteparse/SKILL.md",
+      "skillFolderHash": "08f34e470cc63b36bfef9ecdf921bb830e854050",
+      "installedAt": "2026-09-13T13:42:56.679Z",
+      "updatedAt": "2026-09-13T13:42:56.679Z"
+    },
+    "literature-review": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/literature-review/SKILL.md",
+      "skillFolderHash": "b0e60768a73848342e1e5834fd51d9212e9fd837",
+      "installedAt": "2026-09-13T13:42:56.681Z",
+      "updatedAt": "2026-09-13T13:42:56.681Z"
+    },
+    "markdown-mermaid-writing": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/markdown-mermaid-writing/SKILL.md",
+      "skillFolderHash": "e62d7fb8041852e29ccd019b3c31f340c4e4d26e",
+      "installedAt": "2026-09-13T13:42:56.684Z",
+      "updatedAt": "2026-09-13T13:42:56.684Z"
+    },
+    "market-research-reports": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/market-research-reports/SKILL.md",
+      "skillFolderHash": "56d86f264bc4c256440b340f719e46e9a8c70234",
+      "installedAt": "2026-09-13T13:42:56.686Z",
+      "updatedAt": "2026-09-13T13:42:56.686Z"
+    },
+    "markitdown": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/markitdown/SKILL.md",
+      "skillFolderHash": "0fd169bde6a30b79c0ae542f6cbd2e287b2378d8",
+      "installedAt": "2026-09-13T13:42:56.688Z",
+      "updatedAt": "2026-09-13T13:42:56.688Z"
+    },
+    "matchms": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/matchms/SKILL.md",
+      "skillFolderHash": "fd9ea7d4bd3aaef5a4b31a81ef3463c9c304e420",
+      "installedAt": "2026-09-13T13:42:56.689Z",
+      "updatedAt": "2026-09-13T13:42:56.689Z"
+    },
+    "matlab": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/matlab/SKILL.md",
+      "skillFolderHash": "643808d0d7868f87e7b8028af6e962ca52af2d7f",
+      "installedAt": "2026-09-13T13:42:56.692Z",
+      "updatedAt": "2026-09-13T13:42:56.692Z"
+    },
+    "matplotlib": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/matplotlib/SKILL.md",
+      "skillFolderHash": "0c9fc06c28ecd6c5adb980901602b627df65c242",
+      "installedAt": "2026-09-13T13:42:56.694Z",
+      "updatedAt": "2026-09-13T13:42:56.694Z"
+    },
+    "medchem": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/medchem/SKILL.md",
+      "skillFolderHash": "31cd870a89a33a416ff943009623961e416187e2",
+      "installedAt": "2026-09-13T13:42:56.696Z",
+      "updatedAt": "2026-09-13T13:42:56.696Z"
+    },
+    "modal": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/modal/SKILL.md",
+      "skillFolderHash": "b9bea179b958538238c5984fa90145c9fbda1545",
+      "installedAt": "2026-09-13T13:42:56.697Z",
+      "updatedAt": "2026-09-13T13:42:56.697Z"
+    },
+    "molecular-dynamics": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/molecular-dynamics/SKILL.md",
+      "skillFolderHash": "93ab905502340008d5b2cb9743d2fb96e38132d7",
+      "installedAt": "2026-09-13T13:42:56.699Z",
+      "updatedAt": "2026-09-13T13:42:56.699Z"
+    },
+    "molfeat": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/molfeat/SKILL.md",
+      "skillFolderHash": "4b14ea585482a622568d61202b11e17773653b47",
+      "installedAt": "2026-09-13T13:42:56.702Z",
+      "updatedAt": "2026-09-13T13:42:56.702Z"
+    },
+    "ncats-arax": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/ncats-arax/SKILL.md",
+      "skillFolderHash": "3e89c2fb4ceaf5bcd21dcb0b8b2cb35299a10160",
+      "installedAt": "2026-09-13T13:42:56.704Z",
+      "updatedAt": "2026-09-13T13:42:56.704Z"
+    },
+    "networkx": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/networkx/SKILL.md",
+      "skillFolderHash": "7bce9e74ab6e1a8c7c583096aee1763b39a3aa0a",
+      "installedAt": "2026-09-13T13:42:56.706Z",
+      "updatedAt": "2026-09-13T13:42:56.706Z"
+    },
+    "neurokit2": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/neurokit2/SKILL.md",
+      "skillFolderHash": "b8064f6f889734edd686b682930c01e46e311554",
+      "installedAt": "2026-09-13T13:42:56.708Z",
+      "updatedAt": "2026-09-13T13:42:56.708Z"
+    },
+    "neuropixels-analysis": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/neuropixels-analysis/SKILL.md",
+      "skillFolderHash": "2cdd75e8f11077c3e5606e3dc03b416db5e12c8d",
+      "installedAt": "2026-09-13T13:42:56.710Z",
+      "updatedAt": "2026-09-13T13:42:56.710Z"
+    },
+    "nextflow": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/nextflow/SKILL.md",
+      "skillFolderHash": "3e5a77997d3f9259d7d27a288bb2a496ccc9c20d",
+      "installedAt": "2026-09-13T13:42:56.712Z",
+      "updatedAt": "2026-09-13T13:42:56.712Z"
+    },
+    "omero-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/omero-integration/SKILL.md",
+      "skillFolderHash": "b7933857ab6922ac5a6eca29fe205adb21285807",
+      "installedAt": "2026-09-13T13:42:56.714Z",
+      "updatedAt": "2026-09-13T13:42:56.714Z"
+    },
+    "onekgpd": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/onekgpd/SKILL.md",
+      "skillFolderHash": "84a62b5d53394221ea6892e3e7d2370fa36cd3e9",
+      "installedAt": "2026-09-13T13:42:56.717Z",
+      "updatedAt": "2026-09-13T13:42:56.717Z"
+    },
+    "ontology-term-resolution": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/ontology-term-resolution/SKILL.md",
+      "skillFolderHash": "f00a5e1330cf66341979e81539de2a69a6d366ea",
+      "installedAt": "2026-09-13T13:42:56.720Z",
+      "updatedAt": "2026-09-13T13:42:56.720Z"
+    },
+    "open-notebook": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/open-notebook/SKILL.md",
+      "skillFolderHash": "e675dca291029d123be632628e8fb15f8903ce17",
+      "installedAt": "2026-09-13T13:42:56.723Z",
+      "updatedAt": "2026-09-13T13:42:56.723Z"
+    },
+    "openpiv": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/openpiv/SKILL.md",
+      "skillFolderHash": "5b395ae0ea083a74ae085658b68a30f30a61356d",
+      "installedAt": "2026-09-13T13:42:56.725Z",
+      "updatedAt": "2026-09-13T13:42:56.725Z"
+    },
+    "opentrons-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/opentrons-integration/SKILL.md",
+      "skillFolderHash": "9b2b5c2c6a20405f290a14ae06baad128db5b014",
+      "installedAt": "2026-09-13T13:42:56.728Z",
+      "updatedAt": "2026-09-13T13:42:56.728Z"
+    },
+    "optimize-for-gpu": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/optimize-for-gpu/SKILL.md",
+      "skillFolderHash": "6f43c77628f9907e1675cc502d144c2f8d2810e1",
+      "installedAt": "2026-09-13T13:42:56.731Z",
+      "updatedAt": "2026-09-13T13:42:56.731Z"
+    },
+    "pacsomatic": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pacsomatic/SKILL.md",
+      "skillFolderHash": "b52b7b4accc4a211b3d092470d36a6508da18eef",
+      "installedAt": "2026-09-13T13:42:56.734Z",
+      "updatedAt": "2026-09-13T13:42:56.734Z"
+    },
+    "paper-lookup": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/paper-lookup/SKILL.md",
+      "skillFolderHash": "b7790a25f1f5428e8d631df35fe3344fac8a5008",
+      "installedAt": "2026-09-13T13:42:56.735Z",
+      "updatedAt": "2026-09-13T13:42:56.735Z"
+    },
+    "paperclip": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/paperclip/SKILL.md",
+      "skillFolderHash": "ea09c3f338cbaacfbc7c7ec657d6f4060e149161",
+      "installedAt": "2026-09-13T13:42:56.737Z",
+      "updatedAt": "2026-09-13T13:42:56.737Z"
+    },
+    "paperzilla": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/paperzilla/SKILL.md",
+      "skillFolderHash": "294b052f63a4ca09e13bc30aa327efaf3c658e2b",
+      "installedAt": "2026-09-13T13:42:56.740Z",
+      "updatedAt": "2026-09-13T13:42:56.740Z"
+    },
+    "parallel-web": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/parallel-web/SKILL.md",
+      "skillFolderHash": "306b0b956576649dd98eaa43ddc2c151280479b5",
+      "installedAt": "2026-09-13T13:42:56.742Z",
+      "updatedAt": "2026-09-13T13:42:56.742Z"
+    },
+    "pathml": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pathml/SKILL.md",
+      "skillFolderHash": "0b4ba2576601ee8b9c1bdacf3df6d688f1fe421b",
+      "installedAt": "2026-09-13T13:42:56.745Z",
+      "updatedAt": "2026-09-13T13:42:56.745Z"
+    },
+    "pathogen-variant-surveillance": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pathogen-variant-surveillance/SKILL.md",
+      "skillFolderHash": "f954a8c1292bad4de21cba91e517a8e76f170ce1",
+      "installedAt": "2026-09-13T13:42:56.747Z",
+      "updatedAt": "2026-09-13T13:42:56.747Z"
+    },
+    "pathway-enrichment": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pathway-enrichment/SKILL.md",
+      "skillFolderHash": "a16d53077f90b39a5e38ebf824c142605e011435",
+      "installedAt": "2026-09-13T13:42:56.750Z",
+      "updatedAt": "2026-09-13T13:42:56.750Z"
+    },
+    "pdf": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pdf/SKILL.md",
+      "skillFolderHash": "808f38c0137805091270b6aa34c68aa92f254963",
+      "installedAt": "2026-09-13T13:42:56.751Z",
+      "updatedAt": "2026-09-13T13:42:56.751Z"
+    },
+    "peer-review": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/peer-review/SKILL.md",
+      "skillFolderHash": "5521fbe04d1868847f76765c08edfc9d7632f7f7",
+      "installedAt": "2026-09-13T13:42:56.754Z",
+      "updatedAt": "2026-09-13T13:42:56.754Z"
+    },
+    "pennylane": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pennylane/SKILL.md",
+      "skillFolderHash": "ee67b3b16ceec7b710275fae58efeae690c83990",
+      "installedAt": "2026-09-13T13:42:56.756Z",
+      "updatedAt": "2026-09-13T13:42:56.756Z"
+    },
+    "phylogenetics": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/phylogenetics/SKILL.md",
+      "skillFolderHash": "1fb85ff248bf7a396fc6a80b2db54925770e55c6",
+      "installedAt": "2026-09-13T13:42:56.759Z",
+      "updatedAt": "2026-09-13T13:42:56.759Z"
+    },
+    "pi-agent": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pi-agent/SKILL.md",
+      "skillFolderHash": "7e282970b65e1498a58a4b18349fe68bf8c10389",
+      "installedAt": "2026-09-13T13:42:56.761Z",
+      "updatedAt": "2026-09-13T13:42:56.761Z"
+    },
+    "pkpd-modeling": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pkpd-modeling/SKILL.md",
+      "skillFolderHash": "f0d2a936912f2beb1b09e535d077be4d013a890f",
+      "installedAt": "2026-09-13T13:42:56.764Z",
+      "updatedAt": "2026-09-13T13:42:56.764Z"
+    },
+    "polars": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/polars/SKILL.md",
+      "skillFolderHash": "010e3813faa09a7dca8a061f29d8897c0787a7b2",
+      "installedAt": "2026-09-13T13:42:56.767Z",
+      "updatedAt": "2026-09-13T13:42:56.767Z"
+    },
+    "polars-bio": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/polars-bio/SKILL.md",
+      "skillFolderHash": "e5261852993f4ebc2962056f3c0fbd6a43afff8f",
+      "installedAt": "2026-09-13T13:42:56.770Z",
+      "updatedAt": "2026-09-13T13:42:56.770Z"
+    },
+    "pptx": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pptx/SKILL.md",
+      "skillFolderHash": "b7c46c57d862277db9acd129188d16911553c844",
+      "installedAt": "2026-09-13T13:42:56.773Z",
+      "updatedAt": "2026-09-13T13:42:56.773Z"
+    },
+    "pptx-posters": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pptx-posters/SKILL.md",
+      "skillFolderHash": "8bdff4d5c209dffa5bb5f059d3b647dc0a2f7756",
+      "installedAt": "2026-09-13T13:42:56.779Z",
+      "updatedAt": "2026-09-13T13:42:56.779Z"
+    },
+    "primekg": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/primekg/SKILL.md",
+      "skillFolderHash": "e793273aaedd084ed05a8582732252077763db88",
+      "installedAt": "2026-09-13T13:42:56.782Z",
+      "updatedAt": "2026-09-13T13:42:56.782Z"
+    },
+    "protocolsio-integration": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/protocolsio-integration/SKILL.md",
+      "skillFolderHash": "1fa02c7bb5a14b6dac5ed2998a83d73e2a1a6478",
+      "installedAt": "2026-09-13T13:42:56.785Z",
+      "updatedAt": "2026-09-13T13:42:56.785Z"
+    },
+    "pufferlib": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pufferlib/SKILL.md",
+      "skillFolderHash": "430c8139f0b380bca0c6de45ed908be7797cba40",
+      "installedAt": "2026-09-13T13:42:56.788Z",
+      "updatedAt": "2026-09-13T13:42:56.788Z"
+    },
+    "pydeseq2": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pydeseq2/SKILL.md",
+      "skillFolderHash": "4f8a9ba897bd387633d0527ae8a0059d00742da6",
+      "installedAt": "2026-09-13T13:42:56.791Z",
+      "updatedAt": "2026-09-13T13:42:56.791Z"
+    },
+    "pydicom": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pydicom/SKILL.md",
+      "skillFolderHash": "fc37161ffaa08c60284c2f5a4e4eab8804e6e07a",
+      "installedAt": "2026-09-13T13:42:56.794Z",
+      "updatedAt": "2026-09-13T13:42:56.794Z"
+    },
+    "pyhealth": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pyhealth/SKILL.md",
+      "skillFolderHash": "a89ec8db31d34e1cdf8a40c5ae9ccdf7ab1e3af9",
+      "installedAt": "2026-09-13T13:42:56.798Z",
+      "updatedAt": "2026-09-13T13:42:56.798Z"
+    },
+    "pylabrobot": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pylabrobot/SKILL.md",
+      "skillFolderHash": "9cf77a94acb5f9c04f3e018f516158af63e67227",
+      "installedAt": "2026-09-13T13:42:56.803Z",
+      "updatedAt": "2026-09-13T13:42:56.803Z"
+    },
+    "pymatgen": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pymatgen/SKILL.md",
+      "skillFolderHash": "6ac1663b1f4954dce613774e04fa02954103ea53",
+      "installedAt": "2026-09-13T13:42:56.806Z",
+      "updatedAt": "2026-09-13T13:42:56.806Z"
+    },
+    "pymc": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pymc/SKILL.md",
+      "skillFolderHash": "be774646f8bc16bf50f81b3825bc9b3e58b8bd59",
+      "installedAt": "2026-09-13T13:42:56.810Z",
+      "updatedAt": "2026-09-13T13:42:56.810Z"
+    },
+    "pymoo": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pymoo/SKILL.md",
+      "skillFolderHash": "fd312f5784dab1eb66a815c68a5cade898d72a0f",
+      "installedAt": "2026-09-13T13:42:56.813Z",
+      "updatedAt": "2026-09-13T13:42:56.813Z"
+    },
+    "pyopenms": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pyopenms/SKILL.md",
+      "skillFolderHash": "2e76f25d69ebe58c4b17b317910fd11046435b62",
+      "installedAt": "2026-09-13T13:42:56.816Z",
+      "updatedAt": "2026-09-13T13:42:56.816Z"
+    },
+    "pysam": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pysam/SKILL.md",
+      "skillFolderHash": "93a32d1244113c6e0d1c55caf81c407f997eefb2",
+      "installedAt": "2026-09-13T13:42:56.819Z",
+      "updatedAt": "2026-09-13T13:42:56.819Z"
+    },
+    "pytdc": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pytdc/SKILL.md",
+      "skillFolderHash": "9c4672427c7f9bf0d1e4e705607cfc62fbe0888f",
+      "installedAt": "2026-09-13T13:42:56.823Z",
+      "updatedAt": "2026-09-13T13:42:56.823Z"
+    },
+    "pytorch-lightning": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pytorch-lightning/SKILL.md",
+      "skillFolderHash": "06d96062d1929e74df6290b1f53289daf046230d",
+      "installedAt": "2026-09-13T13:42:56.827Z",
+      "updatedAt": "2026-09-13T13:42:56.827Z"
+    },
+    "pyzotero": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/pyzotero/SKILL.md",
+      "skillFolderHash": "10c323bf01483ccb23055e5852cf13a3439c3462",
+      "installedAt": "2026-09-13T13:42:56.829Z",
+      "updatedAt": "2026-09-13T13:42:56.829Z"
+    },
+    "qiskit": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/qiskit/SKILL.md",
+      "skillFolderHash": "61043241519eaee2048b0c19422193ebcd3ba962",
+      "installedAt": "2026-09-13T13:42:56.832Z",
+      "updatedAt": "2026-09-13T13:42:56.832Z"
+    },
+    "qutip": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/qutip/SKILL.md",
+      "skillFolderHash": "15cd11273fed36436196a4812d6435d23cbfb472",
+      "installedAt": "2026-09-13T13:42:56.835Z",
+      "updatedAt": "2026-09-13T13:42:56.835Z"
+    },
+    "rdkit": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/rdkit/SKILL.md",
+      "skillFolderHash": "9d38655548c6a05640462eb1d65af4160a2b8844",
+      "installedAt": "2026-09-13T13:42:56.838Z",
+      "updatedAt": "2026-09-13T13:42:56.838Z"
+    },
+    "relsa-severity-assessment": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/relsa-severity-assessment/SKILL.md",
+      "skillFolderHash": "1ffd62f80b6038f55eb67edb7b7fb16ef08f9d4e",
+      "installedAt": "2026-09-13T13:42:56.840Z",
+      "updatedAt": "2026-09-13T13:42:56.840Z"
+    },
+    "research-grants": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/research-grants/SKILL.md",
+      "skillFolderHash": "ff5d5cb97db5d401d4299a946097e4c440b3d0a8",
+      "installedAt": "2026-09-13T13:42:56.843Z",
+      "updatedAt": "2026-09-13T13:42:56.843Z"
+    },
+    "research-lookup": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/research-lookup/SKILL.md",
+      "skillFolderHash": "3af0f657270ea42f934665dc2ad9ca0263d115e6",
+      "installedAt": "2026-09-13T13:42:56.846Z",
+      "updatedAt": "2026-09-13T13:42:56.846Z"
+    },
+    "rowan": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/rowan/SKILL.md",
+      "skillFolderHash": "72d188c0f827044c5032c983072500aa9e0c31db",
+      "installedAt": "2026-09-13T13:42:56.849Z",
+      "updatedAt": "2026-09-13T13:42:56.849Z"
+    },
+    "scanpy": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scanpy/SKILL.md",
+      "skillFolderHash": "120f4038de71a7f3878d0c3ce05f8f740600656f",
+      "installedAt": "2026-09-13T13:42:56.852Z",
+      "updatedAt": "2026-09-13T13:42:56.852Z"
+    },
+    "scholar-evaluation": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scholar-evaluation/SKILL.md",
+      "skillFolderHash": "764f4e089ae7c176236422a763ebf40b1d57ccdc",
+      "installedAt": "2026-09-13T13:42:56.855Z",
+      "updatedAt": "2026-09-13T13:42:56.855Z"
+    },
+    "scientific-brainstorming": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scientific-brainstorming/SKILL.md",
+      "skillFolderHash": "ba62a692badcba0290f66151f53e8fad99361d83",
+      "installedAt": "2026-09-13T13:42:56.860Z",
+      "updatedAt": "2026-09-13T13:42:56.860Z"
+    },
+    "scientific-critical-thinking": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scientific-critical-thinking/SKILL.md",
+      "skillFolderHash": "49cf7bedc9d07f9315b3d97ff91d2e1e8bd632a3",
+      "installedAt": "2026-09-13T13:42:56.862Z",
+      "updatedAt": "2026-09-13T13:42:56.862Z"
+    },
+    "scientific-schematics": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scientific-schematics/SKILL.md",
+      "skillFolderHash": "95d3e3867636c7ea4ecf7fa7df62df1141b082d5",
+      "installedAt": "2026-09-13T13:42:56.865Z",
+      "updatedAt": "2026-09-13T13:42:56.865Z"
+    },
+    "scientific-slides": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scientific-slides/SKILL.md",
+      "skillFolderHash": "289736614e8ce2acc3344f8f1eefefc9e904220b",
+      "installedAt": "2026-09-13T13:42:56.868Z",
+      "updatedAt": "2026-09-13T13:42:56.868Z"
+    },
+    "scientific-visualization": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scientific-visualization/SKILL.md",
+      "skillFolderHash": "5deaed71e225759277bb94cdaf846f945ea96234",
+      "installedAt": "2026-09-13T13:42:56.871Z",
+      "updatedAt": "2026-09-13T13:42:56.871Z"
+    },
+    "scientific-writing": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scientific-writing/SKILL.md",
+      "skillFolderHash": "ae5fac6462c292e31e8f75337ad4735c127146b4",
+      "installedAt": "2026-09-13T13:42:56.875Z",
+      "updatedAt": "2026-09-13T13:42:56.875Z"
+    },
+    "scikit-bio": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scikit-bio/SKILL.md",
+      "skillFolderHash": "40661b52da78765fae41065738ee71773d2657df",
+      "installedAt": "2026-09-13T13:42:56.886Z",
+      "updatedAt": "2026-09-13T13:42:56.886Z"
+    },
+    "scikit-learn": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scikit-learn/SKILL.md",
+      "skillFolderHash": "178728534a1b6bf911741901ed02771e0263bbc4",
+      "installedAt": "2026-09-13T13:42:56.890Z",
+      "updatedAt": "2026-09-13T13:42:56.890Z"
+    },
+    "scikit-survival": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scikit-survival/SKILL.md",
+      "skillFolderHash": "4918c55b88c1b9036da66f3514af9204664f1531",
+      "installedAt": "2026-09-13T13:42:56.893Z",
+      "updatedAt": "2026-09-13T13:42:56.893Z"
+    },
+    "scvelo": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scvelo/SKILL.md",
+      "skillFolderHash": "33fa288c24a48e2e30bd2975320657e078e6c573",
+      "installedAt": "2026-09-13T13:42:56.895Z",
+      "updatedAt": "2026-09-13T13:42:56.895Z"
+    },
+    "scvi-tools": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/scvi-tools/SKILL.md",
+      "skillFolderHash": "dd955204be741862c1f895342d96278986fc97e1",
+      "installedAt": "2026-09-13T13:42:56.896Z",
+      "updatedAt": "2026-09-13T13:42:56.896Z"
+    },
+    "seaborn": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/seaborn/SKILL.md",
+      "skillFolderHash": "c9fdfaec4a922466c23e8cb9848e0549d3cae965",
+      "installedAt": "2026-09-13T13:42:56.899Z",
+      "updatedAt": "2026-09-13T13:42:56.899Z"
+    },
+    "shap": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/shap/SKILL.md",
+      "skillFolderHash": "e6252bd8d53bae6a63cea1345c2f772f4d935fe3",
+      "installedAt": "2026-09-13T13:42:56.901Z",
+      "updatedAt": "2026-09-13T13:42:56.901Z"
+    },
+    "simpy": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/simpy/SKILL.md",
+      "skillFolderHash": "ad77fa311d49894fb311ae729cdcafab3da47e95",
+      "installedAt": "2026-09-13T13:42:56.904Z",
+      "updatedAt": "2026-09-13T13:42:56.904Z"
+    },
+    "stable-baselines3": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/stable-baselines3/SKILL.md",
+      "skillFolderHash": "bce7766a4bcb263fb0b8774aa285e6eb7da6ab11",
+      "installedAt": "2026-09-13T13:42:56.908Z",
+      "updatedAt": "2026-09-13T13:42:56.908Z"
+    },
+    "statistical-analysis": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/statistical-analysis/SKILL.md",
+      "skillFolderHash": "b676c1e9ae80e677623b0610c17cbe0ce1cba233",
+      "installedAt": "2026-09-13T13:42:56.911Z",
+      "updatedAt": "2026-09-13T13:42:56.911Z"
+    },
+    "statistical-power": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/statistical-power/SKILL.md",
+      "skillFolderHash": "54357b5c0a1ff8810bf483505210b96bf3cd1855",
+      "installedAt": "2026-09-13T13:42:56.913Z",
+      "updatedAt": "2026-09-13T13:42:56.913Z"
+    },
+    "statsmodels": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/statsmodels/SKILL.md",
+      "skillFolderHash": "484e74f0719d2d40f59e013ffad0b19a4cf5e9be",
+      "installedAt": "2026-09-13T13:42:56.916Z",
+      "updatedAt": "2026-09-13T13:42:56.916Z"
+    },
+    "sympy": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/sympy/SKILL.md",
+      "skillFolderHash": "54c5038d931a1866f1948fafd99580a36a565346",
+      "installedAt": "2026-09-13T13:42:56.920Z",
+      "updatedAt": "2026-09-13T13:42:56.920Z"
+    },
+    "tamarind": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/tamarind/SKILL.md",
+      "skillFolderHash": "fe55f555eed1d6cd974d3bb1544bc8a6fe1393f5",
+      "installedAt": "2026-09-13T13:42:56.922Z",
+      "updatedAt": "2026-09-13T13:42:56.922Z"
+    },
+    "tiledbvcf": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/tiledbvcf/SKILL.md",
+      "skillFolderHash": "19d4a92c2091764662ad0d5cd4642c73a5c729c3",
+      "installedAt": "2026-09-13T13:42:56.924Z",
+      "updatedAt": "2026-09-13T13:42:56.924Z"
+    },
+    "timesfm-forecasting": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/timesfm-forecasting/SKILL.md",
+      "skillFolderHash": "7366e65fb2a4f28bc00f7e6d8d6e93eb7c190216",
+      "installedAt": "2026-09-13T13:42:56.927Z",
+      "updatedAt": "2026-09-13T13:42:56.927Z"
+    },
+    "torch-geometric": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/torch-geometric/SKILL.md",
+      "skillFolderHash": "a372965e79997a7571b4a8b0b8b2b5e221982190",
+      "installedAt": "2026-09-13T13:42:56.929Z",
+      "updatedAt": "2026-09-13T13:42:56.929Z"
+    },
+    "torchdrug": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/torchdrug/SKILL.md",
+      "skillFolderHash": "ec95f4f602eb367a78e6ded9a7ee191efc1529fd",
+      "installedAt": "2026-09-13T13:42:56.932Z",
+      "updatedAt": "2026-09-13T13:42:56.932Z"
+    },
+    "transformers": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/transformers/SKILL.md",
+      "skillFolderHash": "715e73ec8856e269b9f7e639b1fa62a1df45040d",
+      "installedAt": "2026-09-13T13:42:56.935Z",
+      "updatedAt": "2026-09-13T13:42:56.935Z"
+    },
+    "treatment-plans": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/treatment-plans/SKILL.md",
+      "skillFolderHash": "ca840e65c7b39be3f9df5e35542b3449a6a2e949",
+      "installedAt": "2026-09-13T13:42:56.937Z",
+      "updatedAt": "2026-09-13T13:42:56.937Z"
+    },
+    "umap-learn": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/umap-learn/SKILL.md",
+      "skillFolderHash": "a443e30c674144131a8b4322f6f2f01b309d5c4c",
+      "installedAt": "2026-09-13T13:42:56.940Z",
+      "updatedAt": "2026-09-13T13:42:56.940Z"
+    },
+    "uncertainty-and-units": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/uncertainty-and-units/SKILL.md",
+      "skillFolderHash": "3c49e5469def47fcf879fca407940de21753a726",
+      "installedAt": "2026-09-13T13:42:56.943Z",
+      "updatedAt": "2026-09-13T13:42:56.943Z"
+    },
+    "usfiscaldata": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/usfiscaldata/SKILL.md",
+      "skillFolderHash": "3c1305dc98f1a77ccd2cb7f987656c23be5735af",
+      "installedAt": "2026-09-13T13:42:56.945Z",
+      "updatedAt": "2026-09-13T13:42:56.945Z"
+    },
+    "vaex": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/vaex/SKILL.md",
+      "skillFolderHash": "9d04d432823786e871cdb93c5a6991d7270a64eb",
+      "installedAt": "2026-09-13T13:42:56.947Z",
+      "updatedAt": "2026-09-13T13:42:56.947Z"
+    },
+    "venue-templates": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/venue-templates/SKILL.md",
+      "skillFolderHash": "4819bc84abb1db6c6537e0722bdb8be387c38e3b",
+      "installedAt": "2026-09-13T13:42:56.950Z",
+      "updatedAt": "2026-09-13T13:42:56.950Z"
+    },
+    "waypoint-bio": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/waypoint-bio/SKILL.md",
+      "skillFolderHash": "af6b38f0a7a5256b6ed0bb23eafab94260f94fb3",
+      "installedAt": "2026-09-13T13:42:56.953Z",
+      "updatedAt": "2026-09-13T13:42:56.953Z"
+    },
+    "what-if-oracle": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/what-if-oracle/SKILL.md",
+      "skillFolderHash": "e6b6006d15c9aa731e43a4df15d4191aad1fb792",
+      "installedAt": "2026-09-13T13:42:56.956Z",
+      "updatedAt": "2026-09-13T13:42:56.956Z"
+    },
+    "xlsx": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/xlsx/SKILL.md",
+      "skillFolderHash": "cbea5b99b51c9da57f9349913397619d90a2c92e",
+      "installedAt": "2026-09-13T13:42:56.958Z",
+      "updatedAt": "2026-09-13T13:42:56.958Z"
+    },
+    "zarr-python": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "skillPath": "skills/zarr-python/SKILL.md",
+      "skillFolderHash": "3ad3f4d6cc982856f77f464768f150c38f6f25b0",
+      "installedAt": "2026-09-13T13:42:56.961Z",
+      "updatedAt": "2026-09-13T13:42:56.961Z"
+    },
+    "archify": {
+      "source": "tt-a1i/archify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/tt-a1i/archify.git",
+      "skillPath": "archify/SKILL.md",
+      "skillFolderHash": "b799ee7c865bec20b580cb1dfe493bcfb1f79e6d",
+      "installedAt": "2026-09-13T13:51:05.028Z",
+      "updatedAt": "2026-09-13T13:51:05.028Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed",
+    "claude-code"
+  ]
+}

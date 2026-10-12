@@ -1,0 +1,4 @@
+[submodule "skills/wireshark-analysis-skill"]
+	path = skills/wireshark-analysis-skill
+	url = https://github.com/towermac/wireshark-analysis-skill.git
+	branch = main
