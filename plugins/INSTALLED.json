@@ -1,0 +1,26 @@
+{
+  "source": "cursor.plugins.installedIds",
+  "user_level": [
+    {
+      "id": "3845",
+      "note": "see plugins/ cache for resolved names"
+    }
+  ],
+  "workspace_vg101_agent": [
+    {
+      "id": "404"
+    },
+    {
+      "id": "3845"
+    }
+  ],
+  "copied_plugins": [
+    "cli-for-agent",
+    "notion-workspace"
+  ],
+  "notes": [
+    "User Rules / Team Rules are cloud-synced and not present as local files; see .cursor/rules/user-rules.md if exported from session.",
+    "Cursor-managed skills (~/.cursor/skills-cursor) were not copied; they are product-managed.",
+    "mcp.json may contain secrets (tokens/headers)."
+  ]
+}

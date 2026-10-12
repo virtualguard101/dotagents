@@ -1,0 +1,1 @@
+The user wants browser interaction for this request. Prefer verifying UI or web behavior in a real browser using the browser tools available in this environment rather than guessing from code alone. Open pages, interact with the UI, and use screenshots or page content as evidence. On cloud agents, prefer the `computerUse` subagent when GUI interaction is needed.

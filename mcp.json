@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "logisim": {
+      "command": "/home/virtualguard/vg101/dev/logisim-mcp/.venv/bin/python",
+      "args": [
+        "-m",
+        "logisim_mcp"
+      ],
+      "env": {
+        "LOGISIM_JAR": "/usr/share/java/logisim-evolution/logisim-evolution.jar",
+        "JAVA": "/usr/bin/java",
+        "LOGISIM_WORKDIR": "/home/virtualguard/vg101/vglab/csa",
+        "LOGISIM_LOCALE": "en"
+      }
+    },
+    "Notion": {
+      "url": "https://mcp.notion.com/mcp",
+      "headers": {}
+    },
+    "cua-driver": {
+      "enabled": true,
+      "transport": "stdio",
+      "command": "/home/virtualguard/.local/bin/cua-driver",
+      "args": ["mcp"]
+    }
+  }
+}
