@@ -1530,6 +1530,46 @@
       "skillFolderHash": "b799ee7c865bec20b580cb1dfe493bcfb1f79e6d",
       "installedAt": "2026-09-13T13:51:05.028Z",
       "updatedAt": "2026-09-13T13:51:05.028Z"
+    },
+    "wps-excel": {
+      "source": "lc2panda/wps-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/lc2panda/wps-skills.git",
+      "skillPath": "skills/wps-excel/SKILL.md",
+      "skillFolderHash": "f9ed322411f7de4079c4ee1eaf925834297029ed",
+      "pluginName": "wps-office-skills",
+      "installedAt": "2026-10-12T16:59:58.098Z",
+      "updatedAt": "2026-10-12T16:59:58.098Z"
+    },
+    "wps-office": {
+      "source": "lc2panda/wps-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/lc2panda/wps-skills.git",
+      "skillPath": "skills/wps-office/SKILL.md",
+      "skillFolderHash": "3d06c915f5c32fdaefc597f1d090e7715060f11c",
+      "pluginName": "wps-office-skills",
+      "installedAt": "2026-10-12T16:59:58.101Z",
+      "updatedAt": "2026-10-12T16:59:58.101Z"
+    },
+    "wps-ppt": {
+      "source": "lc2panda/wps-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/lc2panda/wps-skills.git",
+      "skillPath": "skills/wps-ppt/SKILL.md",
+      "skillFolderHash": "2db3271a45307fee47151eb62e998023a42a73d9",
+      "pluginName": "wps-office-skills",
+      "installedAt": "2026-10-12T16:59:58.102Z",
+      "updatedAt": "2026-10-12T16:59:58.102Z"
+    },
+    "wps-word": {
+      "source": "lc2panda/wps-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/lc2panda/wps-skills.git",
+      "skillPath": "skills/wps-word/SKILL.md",
+      "skillFolderHash": "0eb3f5120fcfac4b60bc29723754bc36aaf6f3bb",
+      "pluginName": "wps-office-skills",
+      "installedAt": "2026-10-12T16:59:58.104Z",
+      "updatedAt": "2026-10-12T16:59:58.104Z"
     }
   },
   "dismissed": {

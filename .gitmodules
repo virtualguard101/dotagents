@@ -2,3 +2,7 @@
 	path = skills/wireshark-analysis-skill
 	url = https://github.com/towermac/wireshark-analysis-skill.git
 	branch = main
+[submodule "mcp-servers/wps-skills"]
+	path = mcp-servers/wps-skills
+	url = https://github.com/lc2panda/wps-skills.git
+	branch = main

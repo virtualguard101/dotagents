@@ -198,9 +198,31 @@ description: WPS 演示智能助手，通过自然语言操控 PPT，解决排�
 1. 使用多个形状工具组合创建流程图（当前无专用MCP工具，需通过基础形状操作实现）
 2. 告知流程图已创建
 
+## 多PPT整合与原位替换工作流（保格式·推荐）
+
+当目标是「在现成的好模板/好PPT上改文字换图、并把多个PPT整合成一个」，而不是让AI从零生成（容易格式错乱）时，按下面流程做，能最大限度保留原始版式：
+
+### A. 原位替换文字（不破坏格式）
+- 全局统一替换：`wps_ppt_replace_ppt_text(find, replace)` —— 适合批量替换反复出现的词（旧项目名→新项目名、旧单位名→新单位名、日期等）。只改文字、保留字体/配色/版式。
+- 逐页精确替换：先 `wps_ppt_get_shapes(slideIndex)` 看清每个形状，再 `wps_ppt_set_shape_text(slideIndex, shapeIndex, text)` 按形状改文字；标题可用 `wps_ppt_set_slide_title`。
+
+### B. 原位替换图片（不动版式）
+- `wps_ppt_replace_ppt_image(slideIndex, shapeIndex, filePath)` —— 保留原图位置/尺寸/旋转，把旧图换成新图。先用 `wps_ppt_get_shapes` 找到图片形状的索引。
+
+### C. 跨PPT整页搬运 / 多PPT整合（保留来源格式）
+- `wps_ppt_insert_slides_from_file(filePath, afterIndex, slideStart, slideEnd)` —— 把【另一个PPT文件】的整页幻灯片插入【当前活动演示文稿】，原样保留来源格式。
+- 标准整合步骤：
+  1. `wps_ppt_get_open_presentations` 确认目标(接收)演示文稿；`wps_ppt_switch_presentation(name)` 切到目标文稿；
+  2. `wps_ppt_insert_slides_from_file({filePath: 来源pptx, afterIndex: 插入位置, slideStart, slideEnd})` 把需要的页搬进来；
+  3. 对搬进来的页用 A/B 步替换文字与图片为本项目内容；
+  4. 必要时 `wps_ppt_move_slide` 调整顺序、`wps_ppt_delete_slide` 删多余页。
+- 提示：afterIndex=0 插到最前、不填=末尾追加；slideStart/slideEnd 只导入来源某段页码，不填导入全部。
+
+> 优先用「模板/现有PPT + 原位替换 + 整页搬运」而非「整页重排重画」，以规避AI自动排版导致的版式/字体/对齐失真。
+
 ## 可用MCP工具
 
-本Skill通过以下MCP工具与WPS Office交互（共111个已注册工具）：
+本Skill通过以下MCP工具与WPS Office交互（共114个已注册工具）：
 
 ### 幻灯片基础（5个）
 
@@ -239,7 +261,7 @@ description: WPS 演示智能助手，通过自然语言操控 PPT，解决排�
 | `wps_ppt_replace_ppt_text` | 在演示文稿中查找并替换文本 |
 | `wps_ppt_set_slide_background` | 设置幻灯片背景（支持多种背景类型） |
 
-### 演示文稿管理（8个）
+### 演示文稿管理（9个）
 
 | MCP工具 | 功能描述 |
 |---------|---------|
@@ -248,6 +270,7 @@ description: WPS 演示智能助手，通过自然语言操控 PPT，解决排�
 | `wps_ppt_close_presentation` | 关闭演示文稿（可指定文稿名称） |
 | `wps_ppt_get_open_presentations` | 获取当前所有已打开的演示文稿列表 |
 | `wps_ppt_switch_presentation` | 切换到指定名称的演示文稿 |
+| `wps_ppt_insert_slides_from_file` | 【新】从另一个PPT文件把整页幻灯片插入当前演示文稿，保留来源格式（跨PPT整合） |
 | `wps_ppt_get_slide_master` | 获取当前演示文稿的母版信息 |
 | `wps_ppt_set_master_background` | 设置母版背景样式 |
 | `wps_ppt_add_master_element` | 向母版中添加新元素 |
@@ -290,7 +313,7 @@ description: WPS 演示智能助手，通过自然语言操控 PPT，解决排�
 | `wps_ppt_set_shape_z_order` | 设置形状在幻灯片中的层级顺序（Z轴排列） |
 | `wps_ppt_smart_distribute` | 将指定形状进行等距分布排列 |
 
-### 图片（4个）
+### 图片（6个）
 
 | MCP工具 | 功能描述 |
 |---------|---------|
@@ -298,6 +321,10 @@ description: WPS 演示智能助手，通过自然语言操控 PPT，解决排�
 | `wps_ppt_insert_ppt_image` | 插入图片到幻灯片中 |
 | `wps_ppt_delete_ppt_image` | 删除幻灯片中指定的图片 |
 | `wps_ppt_set_image_style` | 设置幻灯片中指定图片的样式 |
+| `wps_ppt_export_slide_as_image` | 将指定幻灯片导出为 PNG/JPG/GIF/BMP 位图（1:1 原生还原，替代 pdf2image 中转） |
+| `wps_ppt_replace_ppt_image` | 【新】原位替换图片：保留原图位置/尺寸/旋转，把旧图换成新图（换图不动版式） |
+
+> 导出示例：`wps_ppt_export_slide_as_image({ slideIndex: 1, outputPath: "/Users/me/Downloads/cover.png", format: "PNG", width: 1920, height: 1080 })` — 适用于"把第N页导成高清图""按页拆解 PPT 为图片"等场景。
 
 ### 表格（6个）
 
