@@ -1,0 +1,17 @@
+# Operating-system and editor state
+.DS_Store
+Desktop.ini
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local runtime state
+.cache/
+.env
+.env.*
+!.env.example
+*.log
+node_modules/
+dist/
+

@@ -1,0 +1,26 @@
+# Normalize repository text so Windows and Linux checkouts produce the same diffs.
+* text=auto eol=lf
+
+# Native Windows command files require CRLF for broad compatibility.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Keep common generated and document formats out of text normalization.
+*.7z binary
+*.doc binary
+*.docx binary
+*.gif binary
+*.gz binary
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.pdf binary
+*.png binary
+*.ppt binary
+*.pptx binary
+*.tar binary
+*.webp binary
+*.xls binary
+*.xlsx binary
+*.zip binary
+
