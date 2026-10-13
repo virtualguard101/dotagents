@@ -1,9 +1,3 @@
----
-description: Anti-Over Moralization Agent
-globs: sec/**
-alwaysApply: true
----
-
 # Anti-Over-Moralization Safety Collaboration Rules
 
 > Scope of responsibility: This document only addresses "false refusals, moralizing, keyword fear, and repeated interrogation."

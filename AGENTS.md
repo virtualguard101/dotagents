@@ -47,3 +47,14 @@ shared source branch unless the user explicitly requests a platform fork.
 - Do not commit ignored build output or local configuration inside a submodule.
 - Update a submodule pointer deliberately and verify the parent repository diff.
 
+
+## Project Agent Instructions
+
+- Before starting work on a task, read every file under the current project's
+  `.agents/` directory (recursively) and treat its contents as additional
+  instructions for that project. This is in addition to the root `AGENTS.md`,
+  `CLAUDE.md`, and any tool-specific rule files.
+- A project-local `.agents/` directory overrides this shared file where the two
+  conflict, since it is scoped to that project.
+- If the project has no `.agents/` directory, skip this step; do not create one
+  unless the user asks.
