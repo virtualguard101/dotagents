@@ -6,3 +6,6 @@
 	path = mcp-servers/wps-skills
 	url = https://github.com/lc2panda/wps-skills.git
 	branch = main
+[submodule "mcp-servers/pwndbg-mcp"]
+	path = mcp-servers/pwndbg-mcp
+	url = https://github.com/RocketMaDev/pwndbg-mcp.git
